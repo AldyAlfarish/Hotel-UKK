@@ -1,5 +1,5 @@
 # Hotel-UKK
-Assalamualaikum warahmatullahi wabarakatuh, here I am making a UKK Hotel application.
+Assalamualaikum warahmatullahi wabarakatuh, here I am making a UKK Hotel application use laravel 10.
 
 To log in, you can use /login
 
